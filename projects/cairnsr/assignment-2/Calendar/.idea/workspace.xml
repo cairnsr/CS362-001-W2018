@@ -58,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalDayTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalDayTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/calendar/CalDayTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-638">
@@ -78,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TimeTableTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TimeTableTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/calendar/TimeTableTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="886">
@@ -120,8 +120,8 @@
       <find>recurdays</find>
       <find>before</find>
       <find>gre</find>
-      <find>addAppt</find>
       <find>rec</find>
+      <find>addAppt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -552,14 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/calendar/TimeTableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="886">
-          <caret line="654" column="34" lean-forward="false" selection-start-line="654" selection-start-column="34" selection-end-line="654" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
@@ -591,6 +583,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-638">
           <caret line="178" column="30" lean-forward="true" selection-start-line="178" selection-start-column="30" selection-end-line="178" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/calendar/TimeTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="886">
+          <caret line="654" column="34" lean-forward="false" selection-start-line="654" selection-start-column="34" selection-end-line="654" selection-end-column="34" />
           <folding />
         </state>
       </provider>
