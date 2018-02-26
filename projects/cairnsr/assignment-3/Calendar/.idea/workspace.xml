@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb271d4-da63-4e2a-a53e-3bc585eb72cf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/Appt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/Appt.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/CalDay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/CalDay.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/CalendarMain.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/CalendarMain.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/CalendarUtil.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/CalendarUtil.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/DateOutOfRangeException.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/DateOutOfRangeException.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/TimeTable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/TimeTable.java.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/calendar/index.source.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/branchfc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/branchnc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/branchpc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/bundle.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/class.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/greenbar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/group.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/method.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/package.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/redbar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/report.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/session.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/sort.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/sort.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/source.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-resources/up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco-sessions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/site/jacoco/jacoco.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/jacoco.exec" afterPath="$PROJECT_DIR$/../../assignment-2/Calendar/target/jacoco.exec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/test-classes/calendar/ApptTest.class" afterPath="$PROJECT_DIR$/../../assignment-2/Calendar/target/test-classes/calendar/ApptTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/test-classes/calendar/CalDayTest.class" afterPath="$PROJECT_DIR$/../../assignment-2/Calendar/target/test-classes/calendar/CalDayTest.class" />
@@ -54,6 +16,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/surefire-reports/calendar.ApptTest.txt" afterPath="$PROJECT_DIR$/../../assignment-2/Calendar/target/surefire-reports/calendar.ApptTest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/surefire-reports/calendar.CalDayTest.txt" afterPath="$PROJECT_DIR$/../../assignment-2/Calendar/target/surefire-reports/calendar.CalDayTest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../assignment-2/Calendar/target/surefire-reports/calendar.TimeTableTest.txt" afterPath="$PROJECT_DIR$/../../assignment-2/Calendar/target/surefire-reports/calendar.TimeTableTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +31,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="1020">
               <caret line="68" column="18" lean-forward="false" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
               <folding />
             </state>
@@ -78,7 +41,7 @@
       <file leaf-file-name="ApptTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/calendar/ApptTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="8385">
               <caret line="561" column="90" lean-forward="false" selection-start-line="561" selection-start-column="88" selection-end-line="561" selection-end-column="90" />
               <folding />
             </state>
@@ -108,7 +71,7 @@
       <file leaf-file-name="CalDayTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/calendar/CalDayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4651">
+            <state relative-caret-position="5280">
               <caret line="359" column="10" lean-forward="false" selection-start-line="359" selection-start-column="10" selection-end-line="359" selection-end-column="10" />
               <folding />
             </state>
@@ -118,12 +81,9 @@
       <file leaf-file-name="TimeTableTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/calendar/TimeTableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="17085">
               <caret line="1148" column="10" lean-forward="false" selection-start-line="1148" selection-start-column="10" selection-end-line="1148" selection-end-column="10" />
-              <folding>
-                <element signature="e#22014#22022#0" expanded="true" />
-                <element signature="e#22300#22319#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -207,9 +167,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,7 +246,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,13 +420,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.25078124" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25733334" sideWeight="0.58671874" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25733334" sideWeight="0.41328126" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25733334" sideWeight="0.41328126" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -482,6 +441,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.25078124" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -514,10 +474,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4995">
           <caret line="342" column="29" lean-forward="false" selection-start-line="342" selection-start-column="8" selection-end-line="342" selection-end-column="29" />
-          <folding>
-            <element signature="e#22014#22022#0" expanded="true" />
-            <element signature="e#22300#22319#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -576,14 +533,7 @@
     <entry file="file://$PROJECT_DIR$/target/pit-reports/201802112214/index.html" />
     <entry file="file://$PROJECT_DIR$/target/pit-reports/201802112221/index.html" />
     <entry file="file://$PROJECT_DIR$/target/pit-reports/201802112231/index.html" />
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121659/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121659/index.html" />
     <entry file="file://$PROJECT_DIR$/Calendar.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -592,17 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121717/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121717/index.html" />
     <entry file="file://$PROJECT_DIR$/src/test/java/calendar/CalDayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4651">
+        <state relative-caret-position="5280">
           <caret line="359" column="10" lean-forward="false" selection-start-line="359" selection-start-column="10" selection-end-line="359" selection-end-column="10" />
           <folding />
         </state>
@@ -610,7 +553,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="1020">
           <caret line="68" column="18" lean-forward="false" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
           <folding />
         </state>
@@ -618,124 +561,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/calendar/ApptTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="8385">
           <caret line="561" column="90" lean-forward="false" selection-start-line="561" selection-start-column="88" selection-end-line="561" selection-end-column="90" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121801/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121805/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121821/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121928/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122007/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122015/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122029/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122036/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122039/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122100/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1263">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122132/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122138/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122145/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121801/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121805/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121821/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802121928/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122007/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122015/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122029/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122036/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122039/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122100/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122132/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122138/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/pit-reports/201802122145/index.html" />
     <entry file="file://$PROJECT_DIR$/src/test/java/calendar/TimeTableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="17085">
           <caret line="1148" column="10" lean-forward="false" selection-start-line="1148" selection-start-column="10" selection-end-line="1148" selection-end-column="10" />
-          <folding>
-            <element signature="e#22014#22022#0" expanded="true" />
-            <element signature="e#22300#22319#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

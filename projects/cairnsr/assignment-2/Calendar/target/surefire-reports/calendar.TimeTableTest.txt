@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------------
 Test set: calendar.TimeTableTest
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.267 sec <<< FAILURE!
-test03(calendar.TimeTableTest)  Time elapsed: 0.009 sec  <<< ERROR!
+Tests run: 9, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.351 sec <<< FAILURE!
+test03(calendar.TimeTableTest)  Time elapsed: 0.022 sec  <<< ERROR!
 calendar.DateOutOfRangeException: Second date specified is not  before the first date specified.
 	at calendar.TimeTable.getApptRange(TimeTable.java:40)
-	at calendar.TimeTableTest.test03(TimeTableTest.java:211)
+	at calendar.TimeTableTest.test03(TimeTableTest.java:213)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

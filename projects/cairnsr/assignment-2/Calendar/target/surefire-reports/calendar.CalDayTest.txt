@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------------
 Test set: calendar.CalDayTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE!
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.009 sec <<< FAILURE!
 test06(calendar.CalDayTest)  Time elapsed: 0 sec  <<< ERROR!
 java.lang.NullPointerException
 	at calendar.CalDay.addAppt(CalDay.java:74)
-	at calendar.CalDayTest.test06(CalDayTest.java:224)
+	at calendar.CalDayTest.test06(CalDayTest.java:225)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

@@ -188,6 +188,7 @@ public class CalDayTest {
 
 	}
 
+
 	@Test
 	public void test06()  throws Throwable  {
 
@@ -230,6 +231,7 @@ public class CalDayTest {
 		//assertEquals(appts2, calday.appts);
 
 	}
+
 
 	@Test
 	public void test07()  throws Throwable  {

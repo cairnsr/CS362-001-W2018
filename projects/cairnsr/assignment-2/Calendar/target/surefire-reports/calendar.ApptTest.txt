@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: calendar.ApptTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.009 sec <<< FAILURE!
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.012 sec <<< FAILURE!
 test06(calendar.ApptTest)  Time elapsed: 0.002 sec  <<< ERROR!
 java.lang.ArrayIndexOutOfBoundsException: -1
 	at calendar.CalendarUtil.NumDaysInMonth(CalendarUtil.java:30)
