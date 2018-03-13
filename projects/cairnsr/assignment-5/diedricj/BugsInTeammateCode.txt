@@ -1,0 +1,4 @@
+The first bug I found was on line 115 in IsValid. The greater than sign had been flipped around so the branch was checking if tart hour was greater than 0 or greater than 23. Because of this, it is impossible to have a scenario with complete path coverage where the there is a value that is true for greater than 23 and not true for greater than 0. This caused the branch to light up yellow in JaCoco allowing me to spot it more easily. 
+
+The second bug I found was on line 75 in adapt. The for loop had set I to initially be 100 instead of 0. This then prevented the loop from initially running and caused the rest of the code within the for loop to not run. Because this could not run when below 100 the code was never covered. This made it easy to spot with the branch being highlighted in yellow and the rest of the for loop now red in JaCoco.
+
